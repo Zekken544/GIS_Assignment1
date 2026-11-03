@@ -1,0 +1,7 @@
+kind,id,name,x,y
+school,S1,School A,20,45
+school,S2,School B,78,64
+stop,B1,West stop,12,37
+stop,B2,Central stop,43,49
+stop,B3,East stop,85,60
+stop,B4,South stop,62,14
